@@ -1,0 +1,5 @@
+XOM
+CVX
+COP
+SLB
+OXY
